@@ -7,3 +7,4 @@ Trabajo colaborativo de visualización de datos sobre el Covid-19, como parte de
 * Jorge Ibañez
 * Fernando Navarrete
 * Constanza Morales
+Saludos!!
