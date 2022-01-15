@@ -3,7 +3,7 @@
 Trabajo colaborativo de visualización de datos sobre el Covid-19, como parte del Módulo 4 del Bootcamp Fullstack Javascript.
 
 ## Integrantes:
-* Karvin Vera
+* Karin Vera
 * Jorge Ibañez
 * Fernando Navarrete
 * Constanza Morales
